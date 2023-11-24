@@ -1,0 +1,12 @@
+.offers {
+  width: 65%;
+  height: 60vh;
+  display: flex;
+  margin: auto;
+  padding: 0px 140px;
+  
+}
+
+.offers-left {}
+
+.offers-right {}
